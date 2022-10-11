@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, World" > man.txt
+echo "Hello, World"
