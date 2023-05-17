@@ -6,4 +6,5 @@
 ### By exploring these projects, you can gain a deeper understanding of how firewalls work, how to secure networks using firewalls, and how to troubleshoot firewall-related issues.
 
 # Resources
+[Web stack debugging](https://intranet.alxswe.com/concepts/68)
 [What is a firewall](https://en.wikipedia.org/wiki/Firewall_%28computing%29)
