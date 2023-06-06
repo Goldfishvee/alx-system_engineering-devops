@@ -12,8 +12,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 # Concepts
 For this project, we expect you to look at these concepts:
-- 1. [Web Server](https://intranet.alxswe.com/concepts/17)
-# Web Server
+# 1. Web Server
+- [Web Server](https://intranet.alxswe.com/concepts/17)
 Do not mix up web server and server.
 A web server is a software that delivers web pages. A server is an actual computer.
 But you might hear people referring to a web server using the word server. (Check out the server concept page to learn more about this.)
@@ -23,5 +23,6 @@ As mentioned above, a server is a physical machine, an actual computer, but in t
 - [Web server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server)
 - [What is a Web Server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server)
 
-- 2. [Web stack debugging](https://intranet.alxswe.com/concepts/68)
+# 2. Web stack debugging
+- [Web stack debugging](https://intranet.alxswe.com/concepts/68)
 Youtube video First 5 Commands When I Connect on a Linux Server](https://www.youtube.com/watch?v=1_gqlbADaAw&feature=youtu.be)
